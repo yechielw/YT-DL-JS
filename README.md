@@ -1,2 +1,5 @@
 # YT-DL-JS
-Simple JavaScript YouTube downlader
+JavaScript YouTube downlader
+
+## Usage
+Simply head to bookmark manager, press the three dots, press import bookmark and select the bookmark-to-import.HTML file
